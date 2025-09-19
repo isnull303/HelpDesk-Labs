@@ -43,7 +43,7 @@ All connectivity and DNS resolution worked correctly.
 
 **Observation:**  
 - `ping 8.8.8.8` succeeded (Internet reachable by IP)  
-- `ping www.microsoft.com` failed (`could not find host`)  
+- `ping www.google.com` failed (`could not find host`)  
 - `nslookup` failed to resolve  
 
 **Resolution:**
