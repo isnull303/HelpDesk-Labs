@@ -23,7 +23,7 @@ perform OS deployments and initial system setup for end-users.
 - Configure user accounts and system settings
 
 ## Screenshots
-All screenshots are stored in the `/screenshots/` folder.
+All screenshots are stored in the [`/screenshots`](./screenshots) folder.
 
 ## Learning Outcomes
 
