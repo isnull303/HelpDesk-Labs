@@ -40,13 +40,13 @@ When the VM booted, I proceeded with the installation and selected the language 
 ![](./screenshots/2.png)
 
 
-### 3. Choosing Installation Option
+### 4. Choosing Installation Option
 
 I chose to install Windows 11 as a new installation.  
 
 ![Windows Setup Option Install Windows 11](./screenshots/3.png)
 
-### 4. Selecting Windows 11 Edition
+### 5. Selecting Windows 11 Edition
 
 On a standard Microsoft Windows 11 ISO, you will be prompted to select which edition to install.  
 For IT and enterprise environments, **Windows 11 Pro** is the recommended choice, since it supports domain joining, Group Policy, BitLocker, and other enterprise features.
@@ -55,25 +55,25 @@ For IT and enterprise environments, **Windows 11 Pro** is the recommended choice
 Because I used a debloated ISO created with [Chris Titus Tech’s MicroWin utility](https://github.com/ChrisTitusTech/winutil), this screen was skipped during my installation.  
 If you are using the **official Microsoft ISO**, you will see this step and should select **Windows 11 Pro**.
 
-### 5. Installation in Progress
+### 6. Installation in Progress
 
 The setup began installing Windows 11 files and features.  
 
 ![](./screenshots/5.png)
 
-### 6. First Login to Windows 11
+### 7. First Login to Windows 11
 
 The system loaded to the Windows 11 desktop after initial configuration.  
 
 ![](./screenshots/6.png)
 
-### 7. Windows Updates
+### 8. Windows Updates
 
 I launched **Windows Update** and allowed the system to download the latest patches. 
 
 ![Windows Update In Progress](./screenshots/7.png)  
 
-### 8. Creating an Additional Standard User
+### 9. Creating an Additional Standard User
 
 To follow security best practices, I added another standard user account in addition to the administrator.
 
