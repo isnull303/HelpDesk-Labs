@@ -5,8 +5,6 @@ In this lab, I demonstrate my ability to set up and configure **Windows Server 2
 The initial steps involve preparing the virtual machine, installing the operating system, and getting the server ready for **Active Directory Domain Services (AD DS)**.  
 This documentation is structured to help recruiters, hiring managers, and technical reviewers clearly see my process and technical skills.
 
----
-
 ## Steps and Screenshots
 
 ### 1. Creating the Virtual Machine
@@ -15,15 +13,11 @@ I began by creating a new virtual machine in **VMware Workstation Pro** and sele
 
 ![](./screenshots/New_Virtual_Machine_Wizard_Server_EVAL_iso_Selected.png)
 
----
-
 ### 2. Configuring Virtual Machine Settings
 
 Before installation, I ensured the virtual machine was configured with sufficient resources (CPU, RAM, and storage).  
 
 ![](./screenshots/Virtual_Machine_Settings_Window.png)
-
----
 
 ### 3. Easy Install — Windows Server Edition Selection
 
@@ -34,8 +28,6 @@ This meant I didn’t see the usual “Install Now” or edition-selection scree
 
 ![](./screenshots/VMware_Easy_Install_Windows_Server_2022_Standard.png)
 
----
-
 ## Notes
 If you are **not using VMware Easy Install**, you will normally see these steps:  
 1. Selecting **Install Now** from the Windows Setup screen.  
@@ -43,15 +35,11 @@ If you are **not using VMware Easy Install**, you will normally see these steps:
 
 Since Easy Install handled this automatically, those steps were skipped in my environment.
 
----
-
 ### 4. Installation Progress
 
 The operating system installation was carried out successfully as shown below.  
 
 ![](./screenshots/Installing_Microsoft_Server_Operating_System_Page.png)
-
----
 
 ### 5. Server Manager Dashboard
 
@@ -59,15 +47,11 @@ After login, the Server Manager automatically launched, providing a central inte
 
 ![](./screenshots/Server_Manager_Dashboard.png)
 
----
-
 ### 6. Renaming the Server
 
 To follow best practices, I renamed the server to **Rana-DC01**, which represents my lab’s Domain Controller.  
 
 ![](./screenshots/VM_Renamed_From_Server_Manager.png)
-
----
 
 ### 7. Configuring DNS
 
@@ -76,15 +60,11 @@ I configured the server’s IP address to also act as its DNS, which is essentia
 ![](./screenshots/IP_Address_Of_The_Server_is_Used_To_Set_The_DNS_Address.png)  
 ![](./screenshots/Internet_Test.png)
 
----
-
 ### 8. Starting Role-Based Installation
 
 Next, I initiated the **Role-based or feature-based installation** process to prepare for AD DS.  
 
 ![](./screenshots/Adding_Roles_And_Features_By_Selecting_Roles_Based_Installation.png)
-
----
 
 ### 9. Selecting the Target Server
 
@@ -92,7 +72,6 @@ From the server pool, I selected **Rana-DC01** to install the roles.
 
 ![](./screenshots/Server_Selection.png)
 
----
 
 ## Conclusion
 
