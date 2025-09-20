@@ -13,7 +13,7 @@ This documentation is structured to help recruiters, hiring managers, and techni
 
 I began by creating a new virtual machine in **VMware Workstation Pro** and selecting the Windows Server 2022 ISO for installation.  
 
-![](./screenshots/New_Virtual_Machine_Wizard_Server_EVAL_iso_Selected.PNG)
+![](./screenshots/New_Virtual_Machine_Wizard_Server_EVAL_iso_Selected.png)
 
 ---
 
@@ -21,7 +21,7 @@ I began by creating a new virtual machine in **VMware Workstation Pro** and sele
 
 Before installation, I ensured the virtual machine was configured with sufficient resources (CPU, RAM, and storage).  
 
-![](./screenshots/Virtual_Machine_Settings_Window.PNG)
+![](./screenshots/Virtual_Machine_Settings_Window.png)
 
 ---
 
@@ -32,7 +32,7 @@ This meant I didn’t see the usual “Install Now” or edition-selection scree
 
 - **Windows Server 2022 Standard (Desktop Experience)**  
 
-![](./screenshots/VMware_Easy_Install_Windows_Server_2022_Standard.PNG)
+![](./screenshots/VMware_Easy_Install_Windows_Server_2022_Standard.png)
 
 ---
 
@@ -65,7 +65,7 @@ After login, the Server Manager automatically launched, providing a central inte
 
 To follow best practices, I renamed the server to **Rana-DC01**, which represents my lab’s Domain Controller.  
 
-![](./screenshots/VM_Renamed_From_Server_Manager.PNG)
+![](./screenshots/VM_Renamed_From_Server_Manager.png)
 
 ---
 
@@ -73,8 +73,8 @@ To follow best practices, I renamed the server to **Rana-DC01**, which represent
 
 I configured the server’s IP address to also act as its DNS, which is essential for Active Directory environments.  
 
-![](./screenshots/IP_Address_Of_The_Server_is_Used_To_Set_The_DNS_Address.PNG)  
-![](./screenshots/Internet_Test.PNG)
+![](./screenshots/IP_Address_Of_The_Server_is_Used_To_Set_The_DNS_Address.png)  
+![](./screenshots/Internet_Test.png)
 
 ---
 
@@ -82,7 +82,7 @@ I configured the server’s IP address to also act as its DNS, which is essentia
 
 Next, I initiated the **Role-based or feature-based installation** process to prepare for AD DS.  
 
-![](./screenshots/Adding_Roles_And_Features_By_Selecting_Roles_Based_Installation.PNG)
+![](./screenshots/Adding_Roles_And_Features_By_Selecting_Roles_Based_Installation.png)
 
 ---
 
