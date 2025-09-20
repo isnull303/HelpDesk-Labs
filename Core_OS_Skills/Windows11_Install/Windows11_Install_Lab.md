@@ -19,7 +19,7 @@ For this lab (and most of my personal setups), I used the official Windows 11 IS
 ### 1. Creating a New Virtual Machine
 I began by creating a new VM in **VMware Workstation Pro** and selected the Windows 11 ISO image.
 
-**Screenshot:**  
+  
 ![](./screenshots/1.png)
 
 ### 2. Configuring Virtual Machine Resources
@@ -30,7 +30,7 @@ I allocated resources to meet the **minimum requirements for Windows 11**:
 - **Memory (RAM):** 4 GB  
 - **Hard Disk:** 64 GB  
 
-**Screenshot:**  
+  
 ![](./screenshots/minimum.png)
 
 ### 3. Starting Windows Setup
@@ -72,8 +72,6 @@ The system loaded to the Windows 11 desktop after initial configuration.
 I launched **Windows Update** and allowed the system to download the latest patches. 
 
 ![Windows Update In Progress](./screenshots/7.png)  
-
-![Windows Update Completed Restart In Progress](./screenshots/Windows_Update_Completed_Restart_In_Progress_Window.png)
 
 ### 8. Creating an Additional Standard User
 
