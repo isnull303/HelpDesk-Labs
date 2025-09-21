@@ -1,7 +1,7 @@
 # Lab 01 — Basic Network Troubleshooting
 
 ## Purpose
-This lab demonstrates my ability to diagnose and resolve common network connectivity issues in Windows 10 using core troubleshooting commands.
+This lab demonstrates my ability to diagnose and resolve common network connectivity issues in Windows 11 using core troubleshooting commands.
 
 **[View Full Lab Documentation](lab01_Network_Troubleshooting.md)**
 
