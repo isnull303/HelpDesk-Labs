@@ -49,7 +49,7 @@ After login, the Server Manager automatically launched, providing a central inte
 
 ### 6. Renaming the Server
 
-To follow best practices, I renamed the server to **Rana-DC01**, which represents my lab’s Domain Controller.  
+To follow best practices, I renamed the server to **NULL_DC01**, which represents my lab’s Domain Controller.  
 
 ![](./screenshots/VM_Renamed_From_Server_Manager.png)
 
@@ -68,7 +68,7 @@ Next, I initiated the **Role-based or feature-based installation** process to pr
 
 ### 9. Selecting the Target Server
 
-From the server pool, I selected **Rana-DC01** to install the roles.  
+From the server pool, I selected **NULL-DC01** to install the roles.  
 
 ![](./screenshots/Server_Selection.png)
 
