@@ -13,7 +13,7 @@ This lab demonstrates **local user account management in Windows 10** using both
 ## Lab Tasks
 1. Create a new local user accounts
 2. Reset a user's password
-3. Add a users to a local groups
+3. Add users to a local groups
 4. Delete an old user account
 5. Verify changes with Command Prompt
 
