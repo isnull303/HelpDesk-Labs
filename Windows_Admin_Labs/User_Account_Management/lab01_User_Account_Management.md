@@ -14,13 +14,13 @@ These are typical real-world tasks performed by Help Desk and Junior System Admi
 ## Steps & Screenshots
 
 ### 1. Create a New Local User Accounts
-- Open **Local Users and Groups (lusrmgr.msc)** → **Users → New User…**  
+- Open **Computer Managment** → **Local Users and Groups** → **Users → New User**  
 - Created user: **emma** > (my future wife)
 - Created user: **void**
 - Assigned initial passwords for both users
  
 ![](./screenshots/emma_User_Account_Setup.png)  
-![](./screenshots/void_User_Account_Setup.png.png)  
+![](./screenshots/void_User_Account_Setup.png)  
 
 ---
 
