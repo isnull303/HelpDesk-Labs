@@ -44,6 +44,9 @@ These actions typically result in faster boot times, reduced resource usage, imp
 
 Using Windows Security, I performed a Quick Scan to ensure that no malware was affecting performance.
 
+  ![](screenshots/Windows Security1.png)
+  ![](screenshots/Windows Security2.png)
+  
 ### 6. Checking Drive Health with CHKDSK
 
 To verify storage integrity, I ran the following command in Command Prompt:
