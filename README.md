@@ -5,9 +5,12 @@ Practical troubleshooting and system management tasks that form the foundation o
 - [Lab 01 – Network Troubleshooting](https://github.com/isnull303/HelpDesk-Labs/blob/main/Core_OS_Skills/Basic_Network_Troubleshooting/lab01_Network_Troubleshooting.md)  
 - [Lab 02 – PC Performance Troubleshooting](https://github.com/isnull303/HelpDesk-Labs/blob/main/Core_OS_Skills/PC_Performance_Troubleshooting/lab02_PC_Performance_Troubleshooting.md)  
 
+### Section 2: Windows Administration  
+Exploring local user management, group policies, and system recovery.  
+- [Lab 01 – User Account Management](https://github.com/isnull303/HelpDesk-Labs/blob/main/Windows_Admin_Labs/User_Account_Management/lab01_User_Account_Management.md)
 
-Active Directory  
+
+### Section X: Active Directory  
 Hands-on practice with Windows Server 2022, user/group objects, RBAC, and Group Policy.  
 - [Part 1 – AD Installation & Object Creation](https://github.com/isnull303/HelpDesk-Labs/blob/main/Active_Directory/AD%20Installation%20and%20Functionality/Lab_Documentation_Part1.md)  
 - [Part 2 – RBAC & Resource Sharing](https://github.com/isnull303/HelpDesk-Labs/blob/main/Active_Directory/AD%20Installation%20and%20Functionality/Lab_Documentation_Part2.md)  
-
