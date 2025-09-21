@@ -1,4 +1,4 @@
-# Windows 11 Installation & Configuration Lab
+# Lab 00 - Windows 11 Installation & Configuration
 
 ## Overview
 This lab demonstrates a clean installation and configuration of **Windows 11** in a VMware Workstation Pro environment.  
