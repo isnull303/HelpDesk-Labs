@@ -20,7 +20,7 @@ This lab demonstrates **Windows PC performance troubleshooting** on my personal 
 6. Verify drive integrity with CHKDSK.
 
 ## Screenshots
-All screenshots are stored in the ![](/screenshots/) folder
+Screenshots for this lab can be accessed in the [`/screenshots`](./screenshots) folder.
 
 ## Lab Outcomes
 - Demonstrated ability to optimize Windows system performance using GUI tools.
