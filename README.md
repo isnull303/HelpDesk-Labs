@@ -1,14 +1,15 @@
 
 ### Section 1: Core OS Skills  
 Practical troubleshooting and system management tasks that form the foundation of IT support.  
-- [Lab 00 – Windows 11 Installation](https://github.com/isnull303/HelpDesk-Labs/blob/main/Core_OS_Skills/Windows11_Install/Windows11_Install_Lab.md)  
+- [Lab 00 – Windows 11 Installation](https://github.com/isnull303/HelpDesk-Labs/blob/main/Core_OS_Skills/Windows11_InstallWindows11_Install_Lab.md)  
 - [Lab 01 – Network Troubleshooting](https://github.com/isnull303/HelpDesk-Labs/blob/main/Core_OS_Skills/Basic_Network_Troubleshooting/lab01_Network_Troubleshooting.md)  
 - [Lab 02 – PC Performance Troubleshooting](https://github.com/isnull303/HelpDesk-Labs/blob/main/Core_OS_Skills/PC_Performance_Troubleshooting/lab02_PC_Performance_Troubleshooting.md)  
 
 ### Section 2: Windows Administration  
 Exploring local user management, group policies, and system recovery.  
 - [Lab 01 – User Account Management](https://github.com/isnull303/HelpDesk-Labs/blob/main/Windows_Admin_Labs/User_Account_Management/lab01_User_Account_Management.md)
-
+- [Lab 02 – Local Group Policy](https://github.com/isnull303/HelpDesk-Labs/blob/52ff3bf4404a40173cd3cd0028acfcb876cf6c9f/Windows_Admin_Labs/Windows_Local_Group_Policy/lab02_Local_Group_Policy.md)
+- [Lab 03 – Backup & Recovery Using File History](https://github.com/isnull303/HelpDesk-Labs/blob/52ff3bf4404a40173cd3cd0028acfcb876cf6c9f/Windows_Admin_Labs/File_Recovery_And_Backup/lab03_Backup_Recovery_Using_File_History.md)
 
 ### Section X: Active Directory  
 Hands-on practice with Windows Server 2022, user/group objects, RBAC, and Group Policy.  
