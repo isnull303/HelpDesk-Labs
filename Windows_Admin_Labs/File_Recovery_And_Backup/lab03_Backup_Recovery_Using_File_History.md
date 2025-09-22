@@ -15,6 +15,7 @@ Click Add (bottom left). > Choose Hard Disk > Create a new virtual disk
 ![](./screenshots/New_Virtual_Disk2.png)
 
 Initialize The New Disk in Windows Disk Management.
+
 ![](./screenshots/Initialize_Disk.png)
 
 ### 2. Enable File History with Backup Drive
