@@ -16,7 +16,7 @@ This lab demonstrates **Windows Local Group Policy Management in Windows 11** us
 - Verify applied policies with testing
 
 ## Screenshots
-All screenshots are stored in the [screenshots](/screenshots/) folder.
+All screenshots are stored in the [`/screenshots`](./screenshots) folder.
 
 ## Lab Outcomes
 By completing this lab, I have demonstrated my ability to:
