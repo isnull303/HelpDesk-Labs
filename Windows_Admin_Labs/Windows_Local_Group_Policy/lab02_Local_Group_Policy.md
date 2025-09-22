@@ -14,11 +14,11 @@ This lab demonstrates how to **secure a Windows 10 endpoint using Local Group Po
 
 2. Enable **Password must meet complexity requirements**.  
 
-![](./Windows_Local_Group_Policy/screenshots/Password_Complexity_Requirements.png)  
+![](./screenshots/Password_Complexity_Requirements.png)  
 
 3. I have set **Minimum Password Length** to **8 characters**.  
 
-![](./Windows_Local_Group_Policy/screenshots/Minimum_Password_Length.png) 
+![](./screenshots/Minimum_Password_Length.png) 
 
 ---
 
@@ -29,7 +29,7 @@ This lab demonstrates how to **secure a Windows 10 endpoint using Local Group Po
 
 2. External storage policy is implemented by enabling **All Removable Storage classes: Deny all access**.  
 
-![](./Windows_Local_Group_Policy/screenshots/All_Removable_Storage_Classes.png)
+![](./screenshots/All_Removable_Storage_Classes.png)
 
 ---
 
@@ -37,15 +37,15 @@ This lab demonstrates how to **secure a Windows 10 endpoint using Local Group Po
 
 1. Policies are applied immediately by running **gpupdate/force** in **Command Prompt**
 
-![](./Windows_Local_Group_Policy/screenshots/Policy_Updated_CMD.png) 
+![](./screenshots/Policy_Updated_CMD.png) 
 
 2. I tested **Password policy** by setting a weak password and it failed. 
 
-![](./Windows_Local_Group_Policy/screenshots/Password_Failed.png) 
+![](./screenshots/Password_Failed.png) 
 
 3. Lastly, I tested **Removable Storage Policy** by plugging a USB drive. Access was denied.
 
-![](./Windows_Local_Group_Policy/screenshots/USB_Access_Denied.png)
+![](./screenshots/USB_Access_Denied.png)
 
 ---
 
