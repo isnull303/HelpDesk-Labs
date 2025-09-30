@@ -74,6 +74,11 @@ By adding users to **Remote Desktop Users** group
 
 ## Conclusion  
 
-This lab demonstrated how to create and manage Group Policy Objects in Active Directory.  
-I successfully implemented policies to restrict Control Panel access and enforce auto-lock after inactivity.  
-By linking these policies to OUs and testing with a domain user, I gained hands-on experience in applying security and productivity-related policies within an AD environment.  
+This lab demonstrated how to create, configure, and apply Group Policy Objects in an Active Directory environment.
+I successfully implemented:
+- Control Panel restriction
+- Auto-lock after inactivity
+- Local logon permissions
+- Remote Desktop logon permissions
+
+By linking these GPOs to the appropriate OUs and testing them with domain users, I gained hands-on experience in managing both security and access policies within Active Directory.
