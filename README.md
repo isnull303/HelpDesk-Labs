@@ -15,3 +15,4 @@ Exploring local user management, group policies, and system recovery.
 Hands-on practice with Windows Server 2022, user/group objects, RBAC, and Group Policy.  
 - [Part 1 – AD Installation & Object Creation](https://github.com/isnull303/HelpDesk-Labs/blob/main/Active_Directory/AD%20Installation%20and%20Functionality/Lab_Documentation_Part1.md)  
 - [Part 2 – RBAC & Resource Sharing](https://github.com/isnull303/HelpDesk-Labs/blob/main/Active_Directory/AD%20Installation%20and%20Functionality/Lab_Documentation_Part2.md)  
+- [Active Directory GPO Lab](https://github.com/isnull303/HelpDesk-Labs/blob/2e0783841e9513a42800d3b4007e92ccaa50252e/Active_Directory/Active_Directy_GPO_Lab/Active_Directory_GPO_Lab.md)
