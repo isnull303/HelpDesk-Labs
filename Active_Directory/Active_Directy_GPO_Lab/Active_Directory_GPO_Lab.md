@@ -59,7 +59,7 @@ By adding users to **Remote Desktop Users** group
 
 ![](./screenshots/Marketing_User.png)  
 
-- Verified domain login via **RDP** using Mark’s credentials.  
+- Verified domain login via **RDP** using integrity's credentials.  
 
 ![](./screenshots/Sigining_In.png)  
 
