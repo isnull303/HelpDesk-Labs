@@ -11,23 +11,23 @@ I connect from the Tech-PC to the End-User PC using AnyDesk, configure the corre
 
 1. On the End-User, I generated a code and shared it with the End-User.
 
-   ![Tech-PC Code Window](./screenshots/Tech-PC_Code_Window.png)
+   ![](./screenshots/Tech-PC_Code_Window.png)
 
 2. On the Tech-PC, I open AnyDesk and enter the End-User PC address.
 
-   ![End-User Code Entry Window](./screenshots/End-User_Code_Entry_Window.png)
+   ![](./screenshots/End-User_Code_Entry_Window.png)
 
 3. The End-User must accept the connection.
 
-   ![Tech-PC Full Control Showing End-User Command Prompt](./screenshots/End-User_Accept.png)
+   ![](./screenshots/End-User_Accept.png)
 
 4. I navigated to the **Devices and Printers** window on the End-User PC, set **CutePDF Writer** as the default printer.  
 
-   ![Default Printer Set](./screenshots/Default_Printer.png)
+   ![](./screenshots/Default_Printer.png)
 
 6. Finally, I printed a test page to confirm the default printer was working correctly. 
  
-   ![Test Page Print Confirmation](./screenshots/Test_Page_Print.png)
+   ![](./screenshots/Test_Page_Print.png)
 
 ---
 
