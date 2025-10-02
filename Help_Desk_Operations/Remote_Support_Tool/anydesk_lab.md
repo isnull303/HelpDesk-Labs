@@ -9,7 +9,7 @@ I connect from the Tech-PC to the End-User PC using AnyDesk, configure the corre
 
 ## Steps and Screenshots
 
-1. On the End-User, I generated a code and shared it with the End-User.
+1. On the End-User, I generated a code and shared it with the Tech-PC.
 
    ![](./screenshots/Tech-PC_Code_Window.png)
 
