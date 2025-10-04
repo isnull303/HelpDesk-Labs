@@ -6,7 +6,6 @@ The tasks focused on:
 - Restricting Control Panel access
 - Configuring an auto-lock screen policy
 - Allowing local logon for domain users
-- Allowing Remote Desktop login for domain users
 
 These exercises helped me understand how GPOs are created, edited, linked to Organizational Units (OUs), and tested with domain accounts to control system behavior and access policies.
 
@@ -40,18 +39,11 @@ These exercises helped me understand how GPOs are created, edited, linked to Org
 
 ![](./screenshots/Inactivity_Limit.png)  
 
-### Task 3: Allowing Both Local and Remote Desktop Logon for Domain Users
+### Task 3: Allowing Local Logon for Domain Users
 
-> “The sign-in method you’re trying to use isn’t allowed.”
-> This happens when the Allow log on locally right is not granted.
-> i added the user **integrity** to the **Account Operators** group to allow log in directly in my server vm machine
+> To allow domain users to log in locally, added the user integrity to Account Operators or another group with local login rights.
 
 ![](./screenshots/Allow_log_on_locally.png)  
-
-To allow domain users to sign in via RDP, we must grant them the Allow log on through Remote Desktop Services
-By adding users to **Remote Desktop Users** group
-
-![](./screenshots/Remote_Desktop_Group.png)  
 
 ### Task 4: Testing the Policies  
 
@@ -59,7 +51,7 @@ By adding users to **Remote Desktop Users** group
 
 ![](./screenshots/Marketing_User.png)  
 
-- Verified domain login via **RDP** using integrity's credentials.  
+- Logged in to the server VM as integrity. 
 
 ![](./screenshots/Sigining_In.png)  
 
@@ -79,6 +71,5 @@ I successfully implemented:
 - Control Panel restriction
 - Auto-lock after inactivity
 - Local logon permissions
-- Remote Desktop logon permissions
 
 By linking these GPOs to the appropriate OUs and testing them with domain users, I gained hands-on experience in managing both security and access policies within Active Directory.
