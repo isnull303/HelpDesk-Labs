@@ -14,7 +14,7 @@ This exercise helped me understand how to prepare client machines for domain mem
 
 ### Task 1: Create a New VM  
 
-- Created a new Windows VM using [VirtualBox/Hyper-V/VMware].  
+- Created a new Windows VM.
 - Allocated resources: 2 CPU cores, 4GB RAM, 60GB disk.  
 - Installed Windows on the VM.  
 
@@ -33,18 +33,18 @@ This exercise helped me understand how to prepare client machines for domain mem
 ### Task 3: Join the VM to the Domain  
 
 - Opened **System Properties → Computer Name → Change → Domain**.  
-- Entered the domain name (e.g., `company.local`).  
+- Entered the domain name (e.g., `null.com`).  
 - Provided **domain credentials** with permission to join computers.  
 
 ![](./screenshots/Join_Domain.png)  
+![](./screenshots/Join_Domain_confirm.png)  
 
 - Restarted the VM to apply domain settings.  
 
 ### Task 4: Add Domain User to Remote Desktop Users Group  
 
-- Opened **Computer Management → Local Users and Groups → Groups → Remote Desktop Users**.  
-- Added the domain user (e.g., `company\integrity`) to the group.  
-- This ensures the user can log in via Remote Desktop for future labs.  
+- Added the domain user **integrity** to the group.  
+- This ensures the user can log in via Remote Desktop.  
 
 ![](./screenshots/Remote_Desktop_Group.png)  
 
@@ -52,7 +52,7 @@ This exercise helped me understand how to prepare client machines for domain mem
 ### Task 5: Test Domain Login  
 
 - At the login screen, selected **Other User**.  
-- Entered the **domain username and password** (e.g., `company\integrity`).  
+- Entered the **domain username and password**
 
 ![](./screenshots/Domain_Login.png)  
 
@@ -63,9 +63,9 @@ This exercise helped me understand how to prepare client machines for domain mem
 This lab demonstrated how to prepare a client VM to join an Active Directory domain.  
 I successfully completed the following tasks:  
 - Created and configured a Windows VM  
-- Configured network settings and DNS for domain connectivity  
+- Configured network settings and DNS for domain connectivity
+- Added the domain user to the Remote Desktop Users group  
 - Joined the VM to the domain controller  
 - Verified domain login using a domain user  
-- Added the domain user to the Remote Desktop Users group  
 
 By completing these tasks, I gained hands-on experience in **joining machines to a domain and managing access for domain users**, which is a foundational skill in Active Directory administration.
